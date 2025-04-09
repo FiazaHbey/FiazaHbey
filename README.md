@@ -1,4 +1,4 @@
-<body background="red">
+![Binary Background](https://images.app.goo.gl/WxveNHePkFMf4Ueg9)
 <h1 align="center">Hi 👋, I'm Faiza </h1>
 <h3 align="center">A passionate Frontend Developer </h3>
 
