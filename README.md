@@ -1,4 +1,4 @@
-![Background Image](https://images.app.goo.gl/WxveNHePkFMf4Ueg9)
+![Background Image](https://www.convertbinary.com/wp-content/uploads/types-of-binary-code-2.jpg)
 <h1 align="center">Hi 👋, I'm Faiza </h1>
 <h3 align="center">A passionate Frontend Developer </h3>
 
